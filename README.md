@@ -141,12 +141,12 @@ pip install -r reqs.txt
 ```
 get an API from above links [APIS](#APIS-)
 ## select a stock for which you want to build a model
-take data for that particular stock from API respectively and change the code in API.py file subsequentally.
-Similarlly fetch news data for respective stock from newsAPI and make chages in news API.py 
+take data for that particular stock from API respectively and change the code in hist_API.py file subsequentally.
+Similarlly fetch news data for respective stock from newsAPI and make chages in news_API.py 
 ## Accordingly set hyper parameter as desired.
 
 
-libraries used in 
+*𝖑𝖎𝖇𝖗𝖆𝖗𝖎𝖊𝖘 used in model are as follow
 ```python
 import yfinance as yf
 import pandas as pd
@@ -163,67 +163,29 @@ from keras.layers import Dense, LSTM
 
 
 ## 🎯 ![Accuracy](https://img.shields.io/badge/Accuracy-FF5722?style=for-the-badge&logo=Accuracy&logoColor=white)
+<div align="center">
+<img src="https://github.com/yash-011/H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-/blob/main/resources/1eaf14a2-3d7d-4895-b585-ffae54929613.jpg" alt="eatsleepcode" width="350" height="300" />
+</div>
+
+### We have achieved accuracy upto 78%
+
+                            
+
+
+                             
 
 
 
-
-                             Hand written and images:
 
 
 
                              
 
 
-## 💬 ᴅᴀᴛᴀ ꜱᴏuʀᴄᴇꜱ 
-
-
-⚡
 
 
 
 
-
-
-         ⚠️💡⚡                         
-
-
-
-
-💬
-
-## 🚀💻 Technologies & Tools
-
-## 🚀 Quick Start
-### Hi there 👋
-* 👂 My name is ...
-* 👩 Pronouns: ...
-* 🔭 I’m currently working on ...
-* 🌱 I’m currently learning ...
-* 🤝 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* ❤️ I love ...
-* ⚡ Fun fact: ...
-
-
-📈
-⚡ Technologies
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
-
-## ⚡ Technologies
-![HACK2SKILL](https://img.shields.io/badge/HACK2SKILL-2F3134?style=for-the-badge&logo=HACK2SKILL&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-FF5722?style=for-the-badge&logo=Accuracy&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-
-
-
-
- ## ⚠️ 🅽🅾🆃🅴 :
+ ## ⚠️ 🅽🅾🆃🅴 : 
+ As we were short with news data as historical data was paid so we couldn't train our model for larger instances.
+ If you want you can tune hyper parrameters to train RNN for multiple epochs and with heavy data.
