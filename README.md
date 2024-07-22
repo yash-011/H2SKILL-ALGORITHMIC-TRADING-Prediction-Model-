@@ -1,6 +1,26 @@
 # H2SKILL-ALGORITHMIC-TRADING-Prediction-Model 📈-
 Represanted for HACK 2 SKILL Topic name -ALGORITHMIC TRADING. You can use and see algorithmic trading &amp; Stocks info. for predict stock exchange in NSE. 
 
+
+                                                
+                                                
+<div align="center">
+<img src="https://github.com/yash-011/H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-/blob/main/resources/plexus.gif" alt="eatsleepcode" width="850" height="450" />
+</div>
+                                                             
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
                                                 **【S】【T】【A】【R】【T】 【P】【R】【O】【J】【E】【C】【T】**                                          
 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚝𝚊𝚝𝚎𝚖𝚎𝚗𝚝 : AI-powered algorithms can analyze market trends and make investment decisions at lightning speed. This can be helpful for hedge funds and other institutional investors.
 
@@ -25,8 +45,7 @@ Ensure the solution is cost-effective and complies with trading regulations.Eval
 
 
 
-
-                                                        IMAGES
+                                        
 
 
 
