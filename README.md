@@ -1,4 +1,4 @@
-# H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-
+# H2SKILL-ALGORITHMIC-TRADING-Prediction-Model 📈-
 Represanted for HACK 2 SKILL Topic name -ALGORITHMIC TRADING. You can use and see algorithmic trading &amp; Stocks info. for predict stock exchange in NSE. 
 
                                                 **【S】【T】【A】【R】【T】 【P】【R】【O】【J】【E】【C】【T】**                                          
