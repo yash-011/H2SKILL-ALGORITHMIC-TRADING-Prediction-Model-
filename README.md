@@ -189,3 +189,8 @@ from keras.layers import Dense, LSTM
  ## ⚠️ 🅽🅾🆃🅴 : 
  As we were short with news data as historical data was paid so we couldn't train our model for larger instances.
  If you want you can tune hyper parrameters to train RNN for multiple epochs and with heavy data.
+
+## Creator of innovation:
+pratham pawale:
+
+ 
