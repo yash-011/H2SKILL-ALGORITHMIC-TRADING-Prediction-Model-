@@ -73,10 +73,9 @@ Ensure the solution is cost-effective and complies with trading regulations.Eval
 𝗉𝗋𝗈𝗃𝖾𝖼𝗍 𝗀𝗈𝖾𝗌 𝗐𝗂𝗍𝗁:
 
 
-
-
-                                      Data flow diagram
-
+<div align="center">
+<img src="https://github.com/yash-011/H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-/blob/main/resources/Colorful%20Minimalist%20Linear%20Steps%20Circular%20Diagram.png" alt="eatsleepcode" width="600" height="550" />
+</div>
 
 
 
