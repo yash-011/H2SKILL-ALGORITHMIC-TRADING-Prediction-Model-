@@ -191,6 +191,7 @@ from keras.layers import Dense, LSTM
  If you want you can tune hyper parrameters to train RNN for multiple epochs and with heavy data.
 
 ## Creator of innovation:
-pratham pawale:
+pratham pawale:https://github.com/prathampawale
+yash sawarkar:https://github.com/yash-011
 
  
