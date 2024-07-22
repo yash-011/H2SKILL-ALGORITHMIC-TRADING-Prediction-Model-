@@ -69,25 +69,24 @@ Ensure the solution is cost-effective and complies with trading regulations.Eval
 
 
 
-## 📊 𝕯𝖆𝖙𝖆 𝕮𝖔𝖑𝖑𝖊𝖈𝖙𝖎𝖔𝖓:
+📊 𝕯𝖆𝖙𝖆 𝕮𝖔𝖑𝖑𝖊𝖈𝖙𝖎𝖔𝖓:
 Gather comprehensive data from diverse sources to inform the predictive models.Real-time news articles related to financial markets are collected from various credible sources. Stock Price with Historical and current stock price data is gathered, capturing daily, hourly, or even minute-by-minute fluctuations .Key financial metrics and ratios (e.g., earnings per share, P/E ratio, debt-to-equity ratio) of individual stocks are obtained to assess their financial health.
 
 
-## 📊 Fᵤₙdₐₘₑₙₜₐₗ ₐₙₐₗyₛᵢₛ: Analyze fundamental data to understand the intrinsic value and financial stability of stocks, Evaluate financial ratios, historical performance metrics, industry benchmarks, and qualitative assessments (e.g., management quality, competitive positioning)., Incorporate fundamental analysis insights into the predictive models to enrich decision-making.
+📊 Fᵤₙdₐₘₑₙₜₐₗ ₐₙₐₗyₛᵢₛ: Analyze fundamental data to understand the intrinsic value and financial stability of stocks, Evaluate financial ratios, historical performance metrics, industry benchmarks, and qualitative assessments (e.g., management quality, competitive positioning)., Incorporate fundamental analysis insights into the predictive models to enrich decision-making.
+
+
+📊 𝕱𝖆𝖐𝖊 𝕹𝖊𝖜𝖘 𝕯𝖊𝖙𝖊𝖈𝖙𝖎𝖔𝖓: Filter out unreliable or fake news that could mislead the predictive models and investment decisions, Implement machine learning algorithms that specialize in natural language processing (NLP) and text analysis, Utilize features such as sentiment analysis, credibility scoring based on the source, and fact-checking algorithms to identify and remove fake or misleading news. Evaluate the sentiment of news articles to gauge their potential impact on specific stocks. Use sentiment analysis algorithms to classify the sentiment (positive, negative, neutral) of news articles, Determine whether news sentiment is likely to influence the market positively or negatively.
+
+
+📊 ₐₚᵢ ₐₙD ₐₗgₒᵣₜᵢₕₘᵢc bᵤᵢₗdᵢₙg
 
 
 
-## 📊 𝕱𝖆𝖐𝖊 𝕹𝖊𝖜𝖘 𝕯𝖊𝖙𝖊𝖈𝖙𝖎𝖔𝖓: Filter out unreliable or fake news that could mislead the predictive models and investment decisions, Implement machine learning algorithms that specialize in natural language processing (NLP) and text analysis, Utilize features such as sentiment analysis, credibility scoring based on the source, and fact-checking algorithms to identify and remove fake or misleading news. Evaluate the sentiment of news articles to gauge their potential impact on specific stocks. Use sentiment analysis algorithms to classify the sentiment (positive, negative, neutral) of news articles, Determine whether news sentiment is likely to influence the market positively or negatively.
-
-
-## 📊 ₐₚᵢ ₐₙD ₐₗgₒᵣₜᵢₕₘᵢc bᵤᵢₗdᵢₙg
 
 
 
-
-
-
-## 📊 𝕻𝖗𝖊𝖉𝖎𝖈𝖙𝖎𝖛𝖊 𝕸𝖔𝖉𝖊𝖑𝖎𝖓𝖌 𝖆𝖓𝖉 𝕻𝖊𝖗𝖋𝖔𝖗𝖒𝖆𝖓𝖈𝖊 𝕰𝖛𝖆𝖑𝖚𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕴𝖙𝖊𝖗𝖆𝖙𝖎𝖔𝖓 : Generate predictions on future stock price movements based on integrated inputs, Provide probabilistic forecasts or directional predictions (e.g., up, down, neutral) for stock prices over various time horizons, Present predictions through charts, graphs, or dashboards for clear interpretation by institutional investors. Assess the accuracy and reliability of predictive models through rigorous evaluation, Measure model performance using metrics such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and accuracy scores, Continuously refine models based on performance feedback and new data inputs, ensuring ongoing improvement. 
+📊 𝕻𝖗𝖊𝖉𝖎𝖈𝖙𝖎𝖛𝖊 𝕸𝖔𝖉𝖊𝖑𝖎𝖓𝖌 𝖆𝖓𝖉 𝕻𝖊𝖗𝖋𝖔𝖗𝖒𝖆𝖓𝖈𝖊 𝕰𝖛𝖆𝖑𝖚𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕴𝖙𝖊𝖗𝖆𝖙𝖎𝖔𝖓 : Generate predictions on future stock price movements based on integrated inputs, Provide probabilistic forecasts or directional predictions (e.g., up, down, neutral) for stock prices over various time horizons, Present predictions through charts, graphs, or dashboards for clear interpretation by institutional investors. Assess the accuracy and reliability of predictive models through rigorous evaluation, Measure model performance using metrics such as Mean Absolute Error (MAE), Root Mean Square Error (RMSE), and accuracy scores, Continuously refine models based on performance feedback and new data inputs, ensuring ongoing improvement. 
 
 
 
@@ -116,21 +115,29 @@ links of coding
 
 
 
-Acccuracy with written in hand and with images
-as a graph
-
-
-DAta sorces 
+## 🎯 ᴡᴏʀᴋꜱ ᴏɴ ᴀᴄᴄᴜʀᴀᴄʏ
 
 
 
 
+                             Hand written and images:
+
+
+
+                             
+
+
+## 💬 ᴅᴀᴛᴀ ꜱᴏʀᴄᴇꜱ 
+
+
+⚡
 
 
 
 
 
-                                  
+
+         ⚠️💡⚡                         
 
 
 
@@ -165,5 +172,13 @@ DAta sorces
 </p>
 
 ## ⚡ Technologies
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![HACK2SKILL](https://img.shields.io/badge/HACK2SKILL-2F3134?style=for-the-badge&logo=HACK2SKILL&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+
+
+
+
+ ## ⚠️ 🅽🅾🆃🅴 :
