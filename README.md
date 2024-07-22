@@ -97,10 +97,25 @@ Gather comprehensive data from diverse sources to inform the predictive models.R
 📊 𝕱𝖆𝖐𝖊 𝕹𝖊𝖜𝖘 𝕯𝖊𝖙𝖊𝖈𝖙𝖎𝖔𝖓: Filter out unreliable or fake news that could mislead the predictive models and investment decisions, Implement machine learning algorithms that specialize in natural language processing (NLP) and text analysis, Utilize features such as sentiment analysis, credibility scoring based on the source, and fact-checking algorithms to identify and remove fake or misleading news. Evaluate the sentiment of news articles to gauge their potential impact on specific stocks. Use sentiment analysis algorithms to classify the sentiment (positive, negative, neutral) of news articles, Determine whether news sentiment is likely to influence the market positively or negatively.
 
 
-📊 ₐₚᵢ ₐₙD ₐₗgₒᵣₜᵢₕₘᵢc bᵤᵢₗdᵢₙg
+📊 APIS ₐₙD ₐₗgₒᵣₜᵢₕₘᵢc bᵤᵢₗdᵢₙg :
+<div align="left">
+<img src="https://github.com/yash-011/H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-/blob/main/resources/b41442a3-d4bc-495b-b8e3-3c0a9684eaf8.jpg", alt="eatsleepcode" width="250" height="75" />
+</div>
+ <b>[Yahoo finance]</b>(https://finance.yahoo.com/)
+<div align="left"> 
+  <img src="https://github.com/yash-011/H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-/blob/main/resources/6b0f1f4e-4570-429a-9226-b97190709cb2.jpg" alt="eatsleepcode" width="200" height="100" />
+</div> 
+<b>news api </b>b: https://newsapi.org/ 
+<br>
+<br>
+<div align="left">
+<img src="https://github.com/yash-011/H2SKILL-ALGORITHMIC-TRADING-Prediction-Model-/blob/main/resources/ede3bdd0-38d9-4758-8b83-d6a707b65e74.jpg" alt="eatsleepcode" width="200" height="100" />
+</div>
+<b>Alphavantage api</b> (https://www.alphavantage.co/) : This is also a stock market Api 
 
 
-
+<br>
+<br>
 
 
 
@@ -111,29 +126,43 @@ Gather comprehensive data from diverse sources to inform the predictive models.R
 
 
 ## 💻 Coding and testing  structure
-1 types
+𝚂𝙴𝚃𝚃𝙸𝙽𝙶 𝚄𝙿 𝙴𝙽𝚅𝙸𝚁𝙾𝙽𝙼𝙴𝙽𝚃
+Creat a virtual Environment in Anaconda 
+```bash
+conda create -n stock python=3.12.1
+```
+Activate Environment
+```bash
+conda activate stock
+```
+installing requirement
+```python
+pip install -r reqs.txt
+```
+get an API from above links [APIS](#APIS-)
+## select a stock for which you want to build a model
+take data for that particular stock from API respectively and change the code in API.py file subsequentally.
+Similarlly fetch news data for respective stock from newsAPI and make chages in news API.py 
+## Accordingly set hyper parameter as desired.
 
 
-                                code images and link of code as a file
-
-library import
-
-
-
-                                
-
-2 types 
-
-                                  code imges and link of code as a file
-
-
-
-links of coding
+libraries used in 
+```python
+import yfinance as yf
+import pandas as pd
+import datetime
+from newsapi import NewsApiClient
+from transformers import pipeline
+import numpy as np
+from sklearn.preprocessing import MinMaxScaler
+from sklearn.model_selection import train_test_split
+from keras.models import Sequential
+from keras.layers import Dense, LSTM
+```
 
 
 
-
-## 🎯 ᴡᴏʀᴋꜱ ᴏɴ ᴀᴄᴄᴜʀᴀᴄʏ
+## 🎯 ![Accuracy](https://img.shields.io/badge/Accuracy-FF5722?style=for-the-badge&logo=Accuracy&logoColor=white)
 
 
 
@@ -145,7 +174,7 @@ links of coding
                              
 
 
-## 💬 ᴅᴀᴛᴀ ꜱᴏʀᴄᴇꜱ 
+## 💬 ᴅᴀᴛᴀ ꜱᴏuʀᴄᴇꜱ 
 
 
 ⚡
@@ -177,9 +206,7 @@ links of coding
 * ❤️ I love ...
 * ⚡ Fun fact: ...
 
-```yaml
-* YOUR TEXT GOES HERE *
-```
+
 📈
 ⚡ Technologies
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -191,7 +218,7 @@ links of coding
 
 ## ⚡ Technologies
 ![HACK2SKILL](https://img.shields.io/badge/HACK2SKILL-2F3134?style=for-the-badge&logo=HACK2SKILL&logoColor=white)
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Accuracy](https://img.shields.io/badge/Accuracy-FF5722?style=for-the-badge&logo=Accuracy&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
